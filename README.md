@@ -1,4 +1,4 @@
-# Exercicio8
+# Exercic
 
 #include <stdio.h>
 #include <stdlib.h>
